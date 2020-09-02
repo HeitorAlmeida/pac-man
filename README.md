@@ -1,7 +1,6 @@
 # Pac-man
 
-Author: Heitor Almeida
-February 2019
+Author: Heitor Almeida, February 2019
 
 # Overview
 
@@ -14,11 +13,11 @@ In Unity, it's relatively simple to make a character move within walls. What's i
 
 # Stages
 
-Stages can be created with simple text files written very intuitively. There's a specific digit corresponding to each kind of tile that can be used to make a stage, and you can understand them all in a glance at one of the available stage files.
+Stages can be created and added to the game with simple text files written very intuitively. There's a specific digit corresponding to each kind of tile that can be used to make a stage, and you can understand them all in a glance at one of the available stage files.
 
-# Art (?)
+# Files
 
-I drew the (few) sprites the game required.
+In this repository I've  made available the entire Assets folder for the Unity project. By replacing the folder with the same name on a new project and resolving some minor platform version issues that will most likely arise, one should be able to get the project running in no time. I drew the (few) sprites the game required.
 
 # Contact
 
